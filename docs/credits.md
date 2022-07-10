@@ -82,20 +82,27 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/RobertPython">
+            <img src="https://avatars.githubusercontent.com/u/92907451?v=4" width="80;" alt="RobertPython"/>
+            <br />
+            <sub><b>Robert Fox</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/remygrandin">
             <img src="https://avatars.githubusercontent.com/u/1934515?v=4" width="80;" alt="remygrandin"/>
             <br />
             <sub><b>Remygrandin</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/boggy-cs">
             <img src="https://avatars.githubusercontent.com/u/82003678?v=4" width="80;" alt="boggy-cs"/>
             <br />
             <sub><b>Bogyeong Kim</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/stanly0726">
             <img src="https://avatars.githubusercontent.com/u/37040069?v=4" width="80;" alt="stanly0726"/>
@@ -130,15 +137,15 @@
             <br />
             <sub><b>CHAIYEON CHO</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/daentech">
             <img src="https://avatars.githubusercontent.com/u/358678?v=4" width="80;" alt="daentech"/>
             <br />
             <sub><b>Dan Gilbert</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/rubenandre">
             <img src="https://avatars.githubusercontent.com/u/9402773?v=4" width="80;" alt="rubenandre"/>
@@ -173,15 +180,15 @@
             <br />
             <sub><b>David</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/deepsourcebot">
             <img src="https://avatars.githubusercontent.com/u/60907429?v=4" width="80;" alt="deepsourcebot"/>
             <br />
             <sub><b>DeepSource Bot</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/emiran-orange">
             <img src="https://avatars.githubusercontent.com/u/71817149?v=4" width="80;" alt="emiran-orange"/>
@@ -208,13 +215,6 @@
             <img src="https://avatars.githubusercontent.com/u/791091?v=4" width="80;" alt="b1thunt3r"/>
             <br />
             <sub><b>Ishan Jain</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Hellhium">
-            <img src="https://avatars.githubusercontent.com/u/11504877?v=4" width="80;" alt="Hellhium"/>
-            <br />
-            <sub><b>Jemy SCHNEPP</b></sub>
         </a>
     </td></tr>
 </table>
