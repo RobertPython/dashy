@@ -44,9 +44,9 @@ Niklas Zabel <nzabel@Mini-von-Niklas.fritz.box> - 4 commits
 Robert Fox <92907451+RobertPython@users.noreply.github.com> - 4 commits
 Rémy GRANDIN <remy.gr@ndin.fr> - 4 commits
 Walkx <walkxnl@gmail.com> - 4 commits
+dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 4 commits
 Alicie <gh@d0h.co> - 5 commits
 UrekD <urek.denis@gmail.com> - 5 commits
-dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 5 commits
 Erik Vroon <erik.vroon22@gmail.com> - 6 commits
 Leonardo Covarrubias <leos@leocov.com> - 6 commits
 Kashif Sohail <kashif.ezone@gmail.com> - 9 commits
@@ -59,7 +59,7 @@ EVOTk <45015615+EVOTk@users.noreply.github.com> - 22 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 82 commits
 liss-bot <liss-bot@d0h.co> - 105 commits
 Alicia Sykes <alicia@omg.lol> - 127 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 242 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 256 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 243 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 257 commits
 Alicia Sykes <gh@d0h.co> - 435 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1403 commits
